@@ -8,9 +8,9 @@ knowing a little bit about C++.
 
 The first "Successfull" result that I've got is this attempt of creating an abstraction of a "Minecraft world" by creating three clases: *Block*, *Chunk* and *World*. This is the final result:
 
-![First Result Image 1](https://gyazo.com/3f0fa8488aa49801e3e095f2923608d1)
+![First Result Image 1](https://imgur.com/E4rXlJ1)
 
-![First Result Image 2](https://gyazo.com/df6365d31b5824b46aa3b8f357a082ef)
+![First Result Image 2](https://imgur.com/C31rLM5)
 
 As you can see I've been able to create separate Chunks of variable Size in differente positions wich is actually a result that I'm very proud of at this moment taking in account that I had no idea about anything.
 
