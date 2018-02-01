@@ -8,7 +8,7 @@ knowing a little bit about C++.
 
 The first "Successfull" result that I've got is this attempt of creating an abstraction of a "Minecraft world" by creating three clases: *Block*, *Chunk* and *World*. This is the final result:
 
-![](https://imgur.com/E4rXlJ1)
+![](https://imgur.com/E4rXlJ1.png)
 
 ![](https://imgur.com/C31rLM5.png)
 
