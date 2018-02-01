@@ -12,7 +12,7 @@ The first "Successfull" result that I've got is this attempt of creating an abst
 
 ![](https://imgur.com/C31rLM5.png)
 
-As you can see I've been able to create separate Chunks of variable Size in differente positions wich is actually a result that I'm very proud of at this moment taking in account that I had no idea about anything.
+As you can see I've been able to create separate Chunks of variable Size in different positions wich is actually a result that I'm very proud of at this moment taking in account that I had no idea about anything.
 
 _But there's a huge problem_. 
 
