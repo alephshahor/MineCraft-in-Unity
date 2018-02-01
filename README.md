@@ -1,7 +1,7 @@
 # Minecraft-in-Unity
 My First personal project in order to Learn Unity and C#.
 
-In this Project I'll try to create a Voxel Game from Scratch using Unity and not having any knowledge about the Graphic Motor and C#, only 
+In this Project I'll try to create a Voxel Game from Scratch using Unity and not having any knowledge about the Game engine and C#, only 
 knowing a little bit about C++.
 
 #### First Result 
