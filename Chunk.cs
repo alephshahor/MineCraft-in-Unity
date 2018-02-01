@@ -86,7 +86,7 @@ public class Chunk {
 
 		}
 
-/* Método para establecer los atributos de la malla si se quiere utilizar Chunk de manera separa a World
+/* Método para establecer los atributos de la malla si se quiere utilizar Chunk de manera separada a World
 		public void dibujarChunk(){
 			mallaChunk.Clear();
 			mallaChunk.vertices = verticesChunk.ToArray();
