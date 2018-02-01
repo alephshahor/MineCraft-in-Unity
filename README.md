@@ -16,8 +16,9 @@ As you can see I've been able to create separate Chunks of variable Size in diff
 
 _But there's a huge problem_. 
 
-It only exist one Mesh wich is actually the World Mesh that contains every vertex of every block inside every Chunk, that's actually a huge problem because I can't modify each block mesh characteristics (for example, textures).
-I've to figure out a way of creating different meshes for differente type of blocks so I can change any of those blocks during the execution of the program.
+It only exist one Mesh which is actually the World Mesh that contains every vertex of every block inside every Chunk, that's actually a huge problem because I can't modify each block mesh characteristics (for example, textures). I had to make that because I haven't found a way yet to successfully interact between two MonoBehaviour derived classes.
+
+I've to figure out how to create different meshes for different type of blocks so I can change any of those blocks during the execution of the program, and how to merge those individual meshes in order to create a Chunk and eventually a World.
 
 
 
